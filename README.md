@@ -29,7 +29,7 @@ The solution will be provided in Java language along with comments for better un
 
 1. Clone the repository to your local system.
 2. Browse the folders by day.
-3. Each folder will have the Java file containing the solution.
+3. Each folder will have the Java file containing the solution and it's snippet.
 
 ## Technologies Used
 
